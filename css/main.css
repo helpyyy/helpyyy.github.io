@@ -34,6 +34,15 @@ Domain Path:      /languages/
 /* ==========================================================================
    GENERAL
    ========================================================================== */
+   @font-face {
+    font-family: Somatic;
+    src: url(fonts\\Somatic-Rounded.otf) format("opentype");
+    }
+    .myFont{
+      
+      font-family: Somatic;
+      font-size: 50px;
+    }
 body {
   font-family: 'Roboto', sans-serif;
   color: #a0a6ad;
@@ -2352,3 +2361,4 @@ footer .menu li a:hover {
   margin-bottom: 20px;
   font-size: 14px;
 }
+
