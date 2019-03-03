@@ -15,6 +15,10 @@
     font-size: 30px;
     line-height: 36px;
   }
+  .hero-area-2 .contents h1 {
+    font-size: 30px;
+    line-height: 36px;
+  }
   .btn-trial {
     padding: 5px 9px;
     margin-left: 18px;
@@ -23,7 +27,7 @@
     margin-top: 5px;
   }
   .intro-img {
-    padding: 90px 0;
+    padding: 50px 0;
   }
   .contents .head-title {
     font-size: 30px !important;
@@ -92,6 +96,10 @@
     padding: 100px 0 20px;
   }
   .hero-area-2 .contents h2 {
+    line-height: 42px;
+    font-size: 26px;
+  }
+  .hero-area-2 .contents h1 {
     line-height: 42px;
     font-size: 26px;
   }
@@ -164,6 +172,10 @@
     margin-bottom: 15px;
   }
   .hero-area-2 .contents h2 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+  .hero-area-2 .contents h1 {
     font-size: 24px;
     line-height: 36px;
   }
@@ -257,6 +269,10 @@
     font-size: 20px;
     line-height: 30px;
   }
+  .offer-area h1 {
+    font-size: 20px;
+    line-height: 30px;
+  }
   .contact-info_area {
     margin-top: 15px;
   }
@@ -276,6 +292,9 @@
     font-size: 24px;
   }
   #contact h2 {
+    font-size: 18px;
+  }
+  #contact h1 {
     font-size: 18px;
   }
   #about .about-content {
@@ -451,7 +470,14 @@
     font-size: 20px;
     line-height: 30px;
   }
+  .offer-area h1 {
+    font-size: 20px;
+    line-height: 30px;
+  }
   #contact h2 {
+    font-size: 18px;
+  }
+  #contact h1 {
     font-size: 18px;
   }
   #about .about-content {

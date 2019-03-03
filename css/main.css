@@ -34,15 +34,6 @@ Domain Path:      /languages/
 /* ==========================================================================
    GENERAL
    ========================================================================== */
-   @font-face {
-    font-family: Somatic;
-    src: url(fonts\\Somatic-Rounded.otf) format("opentype");
-    }
-    .myFont{
-      
-      font-family: Somatic;
-      font-size: 50px;
-    }
 body {
   font-family: 'Roboto', sans-serif;
   color: #a0a6ad;
@@ -713,6 +704,14 @@ button:focus {
   font-weight: 600;
 }
 
+.hero-area-2 .contents h1 {
+  color: #fff;
+  font-size: 42px;
+  line-height: 60px;
+  margin-bottom: 25px;
+  font-weight: 600;
+}
+
 .hero-area-2 .contents p {
   color: #fff;
   font-size: 14px;
@@ -731,7 +730,9 @@ button:focus {
 }
 
 .hero-area-2 .intro-img {
-  padding: 180px 0 0px;
+  padding: 90px 0 0px;
+  margin-top: 70px;
+  padding-left: 150px;
 }
 
 .hero-area-2 .intro-img img {
@@ -920,7 +921,10 @@ button:focus {
   font-size: 36px;
   margin-bottom: 30px;
 }
-
+.offer-area h1 {
+  font-size: 36px;
+  margin-bottom: 30px;
+}
 /* Services Item */
 .services-item {
   padding: 15px;
@@ -1963,6 +1967,11 @@ textarea {
 }
 
 #contact h2 {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+#contact h1 {
   font-size: 30px;
   font-weight: 700;
   margin-bottom: 30px;
